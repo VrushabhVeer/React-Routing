@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "image": "https://m.media-amazon.com/images/I/619n6kxuGsL._AC_UL320_.jpg",
+            "name" : "OnePlus Nord CE 2",
+            "price": 18999,
+            "id" : 0
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/71tc0IQKJGL._AC_UL320_.jpg",
+            "name" : "Fossil Smartwatch",
+            "price" : 21999,
+            "id" : 1
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/514ptNF+SKS._AC_UL320_.jpg",
+            "name" : "LookMark Shirt",
+            "price" : 599,
+            "id" : 2
+        },
+        {
+            "image": "https://m.media-amazon.com/images/I/81RK0Ze2eKL._AC_UL320_.jpg",
+            "name" : "Diverse Pants",
+            "price" : 999,
+            "id" : 3
+        }
+    ]
+}
